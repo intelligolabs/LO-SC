@@ -24,3 +24,15 @@ Luigi Capogrosso<sup>1</sup>, Enrico Fraccaroli<sup>1,2</sup>, Marco Cristani<su
 <sup>2</sup> *Department of Computer Science, The University of North Carolina at Chapel Hill, USA*
 
 <sup>1</sup> `name.surname@univr.it`, <sup>2</sup> `enrifrac@cs.unc.edu`, `samarjit@cs.unc.edu`
+
+## Citation ##
+If you use [**LO-SC**](https://ieeexplore.ieee.org/abstract/document/10900702), please, cite the following paper:
+```
+@InProceedings{capogrosso2025sc,
+    author    = {Capogrosso, Luigi and Fraccaroli, Enrico and Cristani, Marco and Fummi, Franco and Chakraborty, Samarjit},
+    booktitle = {38th International Conference on VLSI Design (VLSID)},
+    title     = {{LO-SC: Local-Only Split Computing for Accurate Deep Learning on Edge Devices}},
+    year      = {2025},
+    doi       = {10.1109/vlsid64188.2025.00089},
+}
+```
